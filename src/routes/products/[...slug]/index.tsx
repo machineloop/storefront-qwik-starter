@@ -8,7 +8,7 @@ import {
 	useStore,
 	useWatch$,
 } from '@builder.io/qwik';
-import { useLocation } from '@builder.io/qwik-city';
+import { useLocation } from '@derkoe/qwik-city';
 import Alert from '~/components/alert/Alert';
 import Breadcrumbs from '~/components/breadcrumbs/Breadcrumbs';
 import CheckIcon from '~/components/icons/CheckIcon';

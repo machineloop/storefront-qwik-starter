@@ -1,5 +1,5 @@
 import { component$ } from '@builder.io/qwik';
-import { Link } from '@builder.io/qwik-city';
+import { Link } from '@derkoe/qwik-city';
 import HomeIcon from '../icons/HomeIcon';
 import SlashIcon from '../icons/SlashIcon';
 

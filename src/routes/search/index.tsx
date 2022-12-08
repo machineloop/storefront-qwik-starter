@@ -1,5 +1,5 @@
-import { $, component$, QwikKeyboardEvent, useClientEffect$, useStore } from '@builder.io/qwik';
-import { useLocation } from '@builder.io/qwik-city';
+import { $, component$, useClientEffect$, useStore } from '@builder.io/qwik';
+import { useLocation } from '@derkoe/qwik-city';
 import Filters from '~/components/facet-filter-controls/Filters';
 import FiltersButton from '~/components/filters-button/FiltersButton';
 import ProductCard from '~/components/products/ProductCard';

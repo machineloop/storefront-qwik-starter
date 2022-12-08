@@ -1,4 +1,4 @@
-import type { RouteLocation } from '@builder.io/qwik-city';
+import type { RouteLocation } from '@derkoe/qwik-city';
 
 interface AnalyticsProps {
 	loc: RouteLocation;

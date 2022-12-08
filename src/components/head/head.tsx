@@ -1,5 +1,5 @@
 import { component$ } from '@builder.io/qwik';
-import { useDocumentHead, useLocation } from '@builder.io/qwik-city';
+import { useDocumentHead, useLocation } from '@derkoe/qwik-city';
 import { Analytics } from './analytics';
 import { Social } from './social';
 
